@@ -1,0 +1,306 @@
+*{
+
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+.A1{
+background : url("../img/ss.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+width: 1350;
+height: 730px;
+background-position:center ;
+}
+
+.n1{
+
+    padding: 30px;
+    padding-left: 128px;
+}
+.bt {
+    margin: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 50px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.n2 {
+margin-left: 570px;
+
+}
+.h{
+
+    width: 380px;
+    height: 131px;
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.21;
+    text-align: left;
+    padding-top: 130px;
+    color: #ffffff;
+
+}
+
+.p1{
+
+   
+    width: 595px;
+    height: 25px;
+    font-family: Roboto;
+    font-size: 13px;
+    line-height: 1.27;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 143px;
+    padding-top: 95px;
+      
+}
+.p2{
+    width: 242px;
+    height: 24px;
+    opacity: 0.8;
+    font-family: Montserrat;
+    font-size: 10px;
+    line-height: 1.56;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 143px;
+    padding-top: 5px;
+}
+ 
+.A2{
+    width: 1350px;
+    height: 1500px;
+    background-color: #f7f8fb;
+}
+
+.choose{
+
+  width: 750px;
+  height: 62px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: 300;
+  color: #0264fb;
+  font-size: 45px;
+  padding-top: 50px;
+
+}
+
+.web{
+    opacity: 0.8;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 1.27;
+    letter-spacing: -0.55px;
+    text-align: center;
+    color: #000000;
+    padding-top: 45px;
+
+}
+
+.sh{
+  
+    width: 206px;
+    height: 30px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 1.27;
+    text-align: left;
+    color: #212121;
+    padding: 34px;
+}
+
+.card{
+
+    width: 342.5px;
+    height: 350.6px;
+    border-radius: 6px;
+    border: solid 1px rgba(197, 197, 197, 0.3);
+    background-color: #ffffff;
+}
+.Best{
+
+    width: 253.7px;
+    height: 46px;
+    opacity: 0.7;
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    color: #000000;
+}
+
+.starts{
+
+    width: 64px;
+    height: 19px;
+    opacity: 0.7;
+    font-family: Montserrat;
+    font-size: 10px;   
+    line-height: 1.88;
+    text-align: center;
+    color: #000000;
+}
+
+.Rs{
+
+    width: 142px;
+  height: 34px;
+  font-family: Montserrat;
+  font-size: 24px;
+  line-height: 1.21;
+  text-align: center;
+  color: #0264fb;
+}
+.Buy{
+
+
+    width: 73px;
+  height: 19px;
+  font-family: Montserrat;
+  font-size: 14px;
+  line-height: 1.19;
+  text-align: left;
+  padding-top: 75px;
+  color: #212121;
+}
+
+.feat{
+    width: 310px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 1.21;
+    text-align: center;
+    color: #0264fb;
+    padding-top: 150px;
+
+
+}
+
+.choose{
+    width: 750px;
+  height: 62px;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 1.29;
+  text-align: center;
+  color: #0264fb;
+}
+
+
+.cards{
+  width: 232px;
+  height: 26.7px;
+  font-family: Montserrat;
+  font-size: 15px;
+  line-height: 0.95;
+  letter-spacing: -0.61px;
+  text-align: left;
+  color: #1a47b0;
+}
+
+.lorm{
+
+    width: 232px;
+    height: 69.6px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: left;
+    color: #595f6f;
+} 
+
+
+.A3{
+
+    width: 1000px;
+  height: 370px;
+  background-color: #ffffff;
+
+}
+
+.get{
+
+    width: 740px;
+    height: 58.7px;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.29;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #0264fb;
+}
+
+.ipsum{
+
+    width: 640px;
+    height: 57.7px;
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 1.27;
+    letter-spacing: -0.55px;
+    text-align: left;
+    color: #595f6f;
+  
+}
+
+.anas{
+
+   
+    justify-content: space-between;
+}
+
+.email{
+
+    width: 220px;
+  height: 28px;
+  font-family: Montserrat;
+  font-size: 16px;
+  line-height: 1.31;
+  letter-spacing: -0.44px;
+  text-align: center;
+  color: #0264fb;
+}
+
+.oh{
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 1.21;
+    text-align: center;
+    color: #0264fb;
+
+}
+
+.Donec{
+
+    opacity: 0.8;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 1.27;
+    letter-spacing: -0.55px;
+    color: #000000;
+}
+
+.A4{
+
+    background: url(../img/3.jpeg);
+    width: 1350px;
+    height: 300px;
+}
+
