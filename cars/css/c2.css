@@ -1,0 +1,18 @@
+body{
+	background-image: url(../images/in3.svg);
+	background-repeat: no-repeat;
+		background-size: cover;
+			height: 600px;
+}
+div{
+	background-color: white;
+	opacity: .8;
+	border: 5px solid grey;
+	width: 350px;
+	height: 400px;
+	text-align:center;
+	position: relative;
+	top:20px;
+	bottom: 100px;
+	left:100px;
+}

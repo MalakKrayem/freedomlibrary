@@ -1,0 +1,18 @@
+body{
+	background-image: url(../images/cu.jpg);
+	background-repeat: no-repeat;
+		background-size: cover;
+			height: 600px;
+}
+div{
+	background-color: #ffffcc;
+	opacity: .8;
+	border: 5px solid #ffffcc;
+	width: 350px;
+	height: 250px;
+	text-align:center;
+	position: relative;
+	top:150px;
+	bottom: 100px;
+	left:100px;
+}

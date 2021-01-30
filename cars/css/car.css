@@ -1,0 +1,40 @@
+img{
+	border-radius: 50%;
+	border:2px;
+	border-color: black;
+	position: relative;
+	width: 150px;
+	height: 150px;
+	/*bottom:100px;*/
+}
+input{
+	border-radius: 5px;
+	background: white;
+	color:black;
+	width:100px;
+}
+div{
+	background: white;
+	opacity: .9;
+	border: 5px solid white;
+	width: 350px;
+	height: 390px;
+	text-align:center;
+	position: relative;
+	top:150px;
+	bottom: 100px;
+	left:100px;
+}
+span{
+	background:#99ccff;
+	width:100px; 
+	border-radius: 4px;
+}
+body{
+	background-image: url(../images/c6.jpg);
+	background-repeat:no-repeat;
+	height: 600px;
+	background-size: cover;
+}
+
+}
