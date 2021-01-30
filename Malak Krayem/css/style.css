@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap" );
+
+.A1{
+background: url("../img/see.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 400px;
+color: white;
+padding-top: 100px;
+}
+
+.h1{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+
+
+.btn{
+
+  margin-top: 10px;
+  -webkit-box-shadow: -2px 2px 11px 11px rgba(153,168,155,0.41); 
+  box-shadow: -2px 2px 11px 11px rgba(153,168,155,0.41);
+}
+.anas{
+    color: red;
+    margin-left: 10px;
+}
+.A2{
+/* -webkit-box-shadow: 0px 9px 0px 0px red; 
+box-shadow: 9px 9px 0px 0px red; */
+
+-webkit-box-shadow: 0px 3px 0px 0px red; 
+box-shadow: 0px 3px 0px 0px red;
+}
+
+.h2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.A3{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.A4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.range{
+    color: white;
+    padding-left: 12px;
+    padding-right: 60px;
+    width: 10px;
+    background-color: red;
+}
+.A5{
+    
+background-color: rgb(219, 213, 213);
+margin-top: 50px;
+}
+
+.icon2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.group-btn{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(219, 213, 213);
+   justify-content: space-around;
+   margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.img1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+}
+.img1 img{
+ 
+   
+    width:400px;
+    height: 300px;
+  
+}
+
+.img2{
+   
+    width:400px;
+    height: 300px;
+    padding-bottom: 50px;
+
+}
+
+.A6{
+    margin-bottom: 140px;
+
+}
+
+.A7{
+
+    background-color: black;
+   height: 500px;
+}
+.h3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+
+}
+.icon3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.tog{
+    color: rgb(2, 255, 230);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  
+}
+.in{
+
+   
+    justify-content: center;
+    text-align: center;
+}
+.in .inp{
+    padding-right: 145px;
+background-color: rgb(23, 38, 53);
+}
+.in textarea{
+    padding-right: 94px;
+    background-color: rgb(23, 38, 53);
+}
+.sum{
+    background-color: black;
+    color: white;
+   border-color: white ;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 232px;
+    margin-top: 3px;
+}
+.m1{
+
+    height: 200px;
+    width: 350px;
+    background-size: cover;
+}
+
+
+.A8{
+background-color: gray;
+padding-top: 80px;
+
+}
+
+.A8 .icons2{
+    display: flex;
+    justify-content: center;  
+    justify-content: space-evenly;
+    padding-left: 500px;
+    padding-right: 500px;
+    
+}
+
+.A8 p{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    
+} 
+
+#top{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background:red;
+    position: fixed;
+    bottom: 100px;
+    right: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+#top.down{
+animation-play-state: 1px;
+    display: webkit-box;
+    display: flex;
+}
