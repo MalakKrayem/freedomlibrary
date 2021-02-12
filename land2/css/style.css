@@ -1,0 +1,29 @@
+body {
+    background-color: #000;
+    color:#fff;
+  }
+  
+  #divider {
+    background-color: #eee;
+    color:black
+  }
+  #intro-example {
+    background-image: url("../img/intro.jpg");
+    height: 400px;
+    background-size: cover;
+  }
+  
+  @media (min-width: 576px) {
+    #intro-example {
+      height: 600px;
+    }
+  }
+  #book{
+    background-image: url("../img/book.jpg");
+    background-size: cover;
+    height: 300px;
+  }
+  .card {
+    border: none;
+  }
+  
